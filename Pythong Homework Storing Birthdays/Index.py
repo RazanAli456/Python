@@ -1,1 +1,6 @@
 print("storing birthdays")
+print("My Birthday Is On 1 DECEMBER")
+print("My Smaller Brother Birthday Is On 2 MAY")
+print("My Baby Brother Birthday Is On 1 AUGUST")
+print("My Dad's Birthday Is On 4 August")
+print("My Mom's Birthday Is On 22 DECEMBER")
