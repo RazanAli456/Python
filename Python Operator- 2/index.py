@@ -4,3 +4,7 @@ if a==0 and b==0:
     print("Both Values Are Zero")
 elif a==0 or b==0:
     print("either one is zero")
+FirstName=(input("Enter Your First Name "))
+Surname=(input("Enter Your Surname "))
+if FirstName !=Surname:
+    print("They Are Not Equal")
