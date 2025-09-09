@@ -1,0 +1,1 @@
+char=input("Pls Enter A Alphabet")
