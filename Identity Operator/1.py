@@ -6,6 +6,7 @@ scince=float(input("Enter Your Marks"))
 urdu=float(input("Enter Your Marks"))
 english=float(input("Enter Your Marks"))
 average=(math+english+urdu+scince)/4
+print("Average Mark Is ",average)
 if average>90 and average<100:
     print("Grade A1")
 elif average>80 and average<90:
